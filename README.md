@@ -1,2 +1,2 @@
 # ansible-project
-this project is our first ansible project
+This repo is ansible-project
